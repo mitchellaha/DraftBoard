@@ -1,0 +1,794 @@
+{
+    "Will Smith": {
+        "WAR": 4.6,
+        "Position(s)": "C"
+    },
+    "Luis Robert": {
+        "WAR": 4.6,
+        "Position(s)": "OF"
+    },
+    "Wander Franco": {
+        "WAR": 4.5,
+        "Position(s)": "SS"
+    },
+    "Alex Bregman": {
+        "WAR": 4.5,
+        "Position(s)": "3B"
+    },
+    "Manny Machado": {
+        "WAR": 4.5,
+        "Position(s)": "3B"
+    },
+    "Brandon Lowe": {
+        "WAR": 4.4,
+        "Position(s)": "2B"
+    },
+    "Byron Buxton": {
+        "WAR": 4.4,
+        "Position(s)": "OF"
+    },
+    "Anthony Rendon": {
+        "WAR": 4.3,
+        "Position(s)": "3B"
+    },
+    "George Springer": {
+        "WAR": 4.3,
+        "Position(s)": "OF"
+    },
+    "Matt Olson": {
+        "WAR": 4.2,
+        "Position(s)": "1B"
+    },
+    "Francisco Lindor": {
+        "WAR": 4.2,
+        "Position(s)": "SS"
+    },
+    "Yasmani Grandal": {
+        "WAR": 4.0,
+        "Position(s)": "C"
+    },
+    "Jonathan India": {
+        "WAR": 3.8,
+        "Position(s)": "2B"
+    },
+    "Jose Altuve": {
+        "WAR": 3.8,
+        "Position(s)": "2B"
+    },
+    "Salvador Perez": {
+        "WAR": 3.7,
+        "Position(s)": "C"
+    },
+    "Nolan Arenado": {
+        "WAR": 3.7,
+        "Position(s)": "3B"
+    },
+    "Logan Webb": {
+        "WAR": 3.7,
+        "Position(s)": "SP"
+    },
+    "J.T. Realmuto": {
+        "WAR": 3.6,
+        "Position(s)": "C"
+    },
+    "Matt Chapman": {
+        "WAR": 3.6,
+        "Position(s)": "3B"
+    },
+    "Freddy Peralta": {
+        "WAR": 3.6,
+        "Position(s)": "SP"
+    },
+    "Nathan Eovaldi": {
+        "WAR": 3.6,
+        "Position(s)": "SP"
+    },
+    "Paul Goldschmidt": {
+        "WAR": 3.5,
+        "Position(s)": "1B"
+    },
+    "Joey Gallo": {
+        "WAR": 3.5,
+        "Position(s)": "OF"
+    },
+    "Julio Urías": {
+        "WAR": 3.5,
+        "Position(s)": "SP"
+    },
+    "Eduardo Rodriguez": {
+        "WAR": 3.5,
+        "Position(s)": "SP"
+    },
+    "Jake Cronenworth": {
+        "WAR": 3.4,
+        "Position(s)": "2B"
+    },
+    "Yoán Moncada": {
+        "WAR": 3.4,
+        "Position(s)": "3B"
+    },
+    "Lance Lynn": {
+        "WAR": 3.4,
+        "Position(s)": "SP"
+    },
+    "Willy Adames": {
+        "WAR": 3.3,
+        "Position(s)": "SS"
+    },
+    "Ke'Bryan Hayes": {
+        "WAR": 3.3,
+        "Position(s)": "3B"
+    },
+    "Josh Donaldson": {
+        "WAR": 3.3,
+        "Position(s)": "3B"
+    },
+    "Jesse Winker": {
+        "WAR": 3.3,
+        "Position(s)": "OF"
+    },
+    "Cedric Mullins": {
+        "WAR": 3.3,
+        "Position(s)": "OF"
+    },
+    "Sandy Alcantara": {
+        "WAR": 3.3,
+        "Position(s)": "SP"
+    },
+    "Frankie Montas": {
+        "WAR": 3.3,
+        "Position(s)": "SP"
+    },
+    "Dylan Cease": {
+        "WAR": 3.3,
+        "Position(s)": "SP"
+    },
+    "Luis Castillo": {
+        "WAR": 3.3,
+        "Position(s)": "SP"
+    },
+    "Max Muncy": {
+        "WAR": 3.2,
+        "Position(s)": "2B"
+    },
+    "Tim Anderson": {
+        "WAR": 3.2,
+        "Position(s)": "SS"
+    },
+    "Jeimer Candelario": {
+        "WAR": 3.2,
+        "Position(s)": "3B"
+    },
+    "Brandon Nimmo": {
+        "WAR": 3.2,
+        "Position(s)": "OF"
+    },
+    "Joe Musgrove": {
+        "WAR": 3.2,
+        "Position(s)": "SP"
+    },
+    "José Berríos": {
+        "WAR": 3.2,
+        "Position(s)": "SP"
+    },
+    "Jorge Polanco": {
+        "WAR": 3.1,
+        "Position(s)": "SS"
+    },
+    "Austin Riley": {
+        "WAR": 3.1,
+        "Position(s)": "3B"
+    },
+    "Trent Grisham": {
+        "WAR": 3.1,
+        "Position(s)": "OF"
+    },
+    "Trevor Rogers": {
+        "WAR": 3.1,
+        "Position(s)": "SP"
+    },
+    "Framber Valdez": {
+        "WAR": 3.1,
+        "Position(s)": "SP"
+    },
+    "Rhys Hoskins": {
+        "WAR": 3.0,
+        "Position(s)": "OF"
+    },
+    "Justin Turner": {
+        "WAR": 3.0,
+        "Position(s)": "3B"
+    },
+    "Tyler Stephenson": {
+        "WAR": 2.9,
+        "Position(s)": "C"
+    },
+    "Harrison Bader": {
+        "WAR": 2.9,
+        "Position(s)": "OF"
+    },
+    "Christian Yelich": {
+        "WAR": 2.9,
+        "Position(s)": "OF"
+    },
+    "Carlos Rodón": {
+        "WAR": 2.9,
+        "Position(s)": "SP"
+    },
+    "Germán Márquez": {
+        "WAR": 2.9,
+        "Position(s)": "SP"
+    },
+    "Charlie Morton": {
+        "WAR": 2.9,
+        "Position(s)": "SP"
+    },
+    "Enrique Hernández": {
+        "WAR": 2.8,
+        "Position(s)": "OF"
+    },
+    "Javier Báez": {
+        "WAR": 2.8,
+        "Position(s)": "SS"
+    },
+    "Tyler O'Neill": {
+        "WAR": 2.8,
+        "Position(s)": "OF"
+    },
+    "Sean Manaea": {
+        "WAR": 2.8,
+        "Position(s)": "SP"
+    },
+    "Alek Manoah": {
+        "WAR": 2.8,
+        "Position(s)": "SP"
+    },
+    "Willson Contreras": {
+        "WAR": 2.7,
+        "Position(s)": "C"
+    },
+    "Brandon Crawford": {
+        "WAR": 2.7,
+        "Position(s)": "SS"
+    },
+    "Dansby Swanson": {
+        "WAR": 2.7,
+        "Position(s)": "SS"
+    },
+    "Kyle Schwarber": {
+        "WAR": 2.7,
+        "Position(s)": "OF"
+    },
+    "Michael Conforto": {
+        "WAR": 2.7,
+        "Position(s)": "OF"
+    },
+    "Yu Darvish": {
+        "WAR": 2.7,
+        "Position(s)": "SP"
+    },
+    "Jordan Montgomery": {
+        "WAR": 2.7,
+        "Position(s)": "SP"
+    },
+    "Pablo López": {
+        "WAR": 2.7,
+        "Position(s)": "SP"
+    },
+    "John Means": {
+        "WAR": 2.7,
+        "Position(s)": "SP"
+    },
+    "Sonny Gray": {
+        "WAR": 2.7,
+        "Position(s)": "SP"
+    },
+    "Ramón Laureano": {
+        "WAR": 2.6,
+        "Position(s)": "OF"
+    },
+    "Tyler Mahle": {
+        "WAR": 2.6,
+        "Position(s)": "SP"
+    },
+    "Shane McClanahan": {
+        "WAR": 2.6,
+        "Position(s)": "SP"
+    },
+    "Marcus Stroman": {
+        "WAR": 2.6,
+        "Position(s)": "SP"
+    },
+    "Sean Murphy": {
+        "WAR": 2.5,
+        "Position(s)": "C"
+    },
+    "Brandon Belt": {
+        "WAR": 2.5,
+        "Position(s)": "1B"
+    },
+    "Gleyber Torres": {
+        "WAR": 2.5,
+        "Position(s)": "SS"
+    },
+    "Kolten Wong": {
+        "WAR": 2.5,
+        "Position(s)": "2B"
+    },
+    "Luis Urías": {
+        "WAR": 2.5,
+        "Position(s)": "3B"
+    },
+    "J.P. Crawford": {
+        "WAR": 2.5,
+        "Position(s)": "SS"
+    },
+    "Max Kepler": {
+        "WAR": 2.5,
+        "Position(s)": "OF"
+    },
+    "Dylan Carlson": {
+        "WAR": 2.5,
+        "Position(s)": "OF"
+    },
+    "Mitch Haniger": {
+        "WAR": 2.5,
+        "Position(s)": "OF"
+    },
+    "Clayton Kershaw": {
+        "WAR": 2.5,
+        "Position(s)": "SP"
+    },
+    "Michael Kopech": {
+        "WAR": 2.5,
+        "Position(s)": "SP"
+    },
+    "Mitch Garver": {
+        "WAR": 2.4,
+        "Position(s)": "C"
+    },
+    "Ty France": {
+        "WAR": 2.4,
+        "Position(s)": "1B"
+    },
+    "DJ LeMahieu": {
+        "WAR": 2.4,
+        "Position(s)": "3B"
+    },
+    "Jean Segura": {
+        "WAR": 2.4,
+        "Position(s)": "SS"
+    },
+    "Starling Marte": {
+        "WAR": 2.4,
+        "Position(s)": "OF"
+    },
+    "Alex Verdugo": {
+        "WAR": 2.4,
+        "Position(s)": "OF"
+    },
+    "Ranger Suárez": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Hyun Jin Ryu": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Patrick Sandoval": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Tanner Houck": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Chris Bassitt": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Blake Snell": {
+        "WAR": 2.4,
+        "Position(s)": "SP"
+    },
+    "Tommy Edman": {
+        "WAR": 2.3,
+        "Position(s)": "2B"
+    },
+    "Whit Merrifield": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Bobby Witt Jr.": {
+        "WAR": 2.3,
+        "Position(s)": "SS"
+    },
+    "Chris Taylor": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Miguel Rojas": {
+        "WAR": 2.3,
+        "Position(s)": "SS"
+    },
+    "Kris Bryant": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Avisaíl García": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Teoscar Hernández": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Giancarlo Stanton": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Myles Straw": {
+        "WAR": 2.3,
+        "Position(s)": "OF"
+    },
+    "Zac Gallen": {
+        "WAR": 2.3,
+        "Position(s)": "SP"
+    },
+    "Jon Gray": {
+        "WAR": 2.3,
+        "Position(s)": "SP"
+    },
+    "Jacob Stallings": {
+        "WAR": 2.2,
+        "Position(s)": "C"
+    },
+    "Keibert Ruiz": {
+        "WAR": 2.2,
+        "Position(s)": "C"
+    },
+    "Jared Walsh": {
+        "WAR": 2.2,
+        "Position(s)": "1B"
+    },
+    "Eugenio Suárez": {
+        "WAR": 2.2,
+        "Position(s)": "3B"
+    },
+    "Marcell Ozuna": {
+        "WAR": 2.2,
+        "Position(s)": "OF"
+    },
+    "Ian Happ": {
+        "WAR": 2.2,
+        "Position(s)": "OF"
+    },
+    "Eloy Jiménez": {
+        "WAR": 2.2,
+        "Position(s)": "OF"
+    },
+    "Mike Yastrzemski": {
+        "WAR": 2.2,
+        "Position(s)": "OF"
+    },
+    "Logan Gilbert": {
+        "WAR": 2.2,
+        "Position(s)": "SP"
+    },
+    "Brady Singer": {
+        "WAR": 2.2,
+        "Position(s)": "SP"
+    },
+    "Joe Ryan": {
+        "WAR": 2.2,
+        "Position(s)": "SP"
+    },
+    "Bailey Ober": {
+        "WAR": 2.2,
+        "Position(s)": "SP"
+    },
+    "Adley Rutschman": {
+        "WAR": 2.1,
+        "Position(s)": "C"
+    },
+    "Daulton Varsho": {
+        "WAR": 2.1,
+        "Position(s)": "OF"
+    },
+    "Anthony Rizzo": {
+        "WAR": 2.1,
+        "Position(s)": "1B"
+    },
+    "José Abreu": {
+        "WAR": 2.1,
+        "Position(s)": "1B"
+    },
+    "Ryan McMahon": {
+        "WAR": 2.1,
+        "Position(s)": "3B"
+    },
+    "Randy Arozarena": {
+        "WAR": 2.1,
+        "Position(s)": "OF"
+    },
+    "Ian Anderson": {
+        "WAR": 2.1,
+        "Position(s)": "SP"
+    },
+    "Luis Severino": {
+        "WAR": 2.1,
+        "Position(s)": "SP"
+    },
+    "Adam Wainwright": {
+        "WAR": 2.1,
+        "Position(s)": "SP"
+    },
+    "Jameson Taillon": {
+        "WAR": 2.1,
+        "Position(s)": "SP"
+    },
+    "Mike Clevinger": {
+        "WAR": 2.1,
+        "Position(s)": "SP"
+    },
+    "Carson Kelly": {
+        "WAR": 2.0,
+        "Position(s)": "C"
+    },
+    "Adam Frazier": {
+        "WAR": 2.0,
+        "Position(s)": "OF"
+    },
+    "Jesús Sánchez": {
+        "WAR": 2.0,
+        "Position(s)": "OF"
+    },
+    "J.D. Martinez": {
+        "WAR": 2.0,
+        "Position(s)": "OF"
+    },
+    "Michael Brantley": {
+        "WAR": 2.0,
+        "Position(s)": "OF"
+    },
+    "Tarik Skubal": {
+        "WAR": 2.0,
+        "Position(s)": "SP"
+    },
+    "Antonio Senzatela": {
+        "WAR": 2.0,
+        "Position(s)": "SP"
+    },
+    "Mike Minor": {
+        "WAR": 2.0,
+        "Position(s)": "SP"
+    },
+    "Luis Garcia": {
+        "WAR": 2.0,
+        "Position(s)": "SP"
+    },
+    "José Urquidy": {
+        "WAR": 2.0,
+        "Position(s)": "SP"
+    },
+    "Josh Bell": {
+        "WAR": 1.9,
+        "Position(s)": "1B"
+    },
+    "Joey Votto": {
+        "WAR": 1.9,
+        "Position(s)": "1B"
+    },
+    "Jeff McNeil": {
+        "WAR": 1.9,
+        "Position(s)": "2B"
+    },
+    "Chris Sale": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Steven Matz": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Shane Baz": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Zach Eflin": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Alex Cobb": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Kyle Gibson": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Dane Dunning": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Chris Flexen": {
+        "WAR": 1.9,
+        "Position(s)": "SP"
+    },
+    "Nathaniel Lowe": {
+        "WAR": 1.8,
+        "Position(s)": "1B"
+    },
+    "Jazz Chisholm Jr.": {
+        "WAR": 1.8,
+        "Position(s)": "2B"
+    },
+    "Nick Madrigal": {
+        "WAR": 1.8,
+        "Position(s)": "2B"
+    },
+    "Nicky Lopez": {
+        "WAR": 1.8,
+        "Position(s)": "2B"
+    },
+    "Noah Syndergaard": {
+        "WAR": 1.8,
+        "Position(s)": "SP"
+    },
+    "Justin Verlander": {
+        "WAR": 1.8,
+        "Position(s)": "SP"
+    },
+    "Huascar Ynoa": {
+        "WAR": 1.8,
+        "Position(s)": "SP"
+    },
+    "Anthony DeSclafani": {
+        "WAR": 1.8,
+        "Position(s)": "SP"
+    },
+    "Jonathan Schoop": {
+        "WAR": 1.7,
+        "Position(s)": "2B"
+    },
+    "C.J. Cron": {
+        "WAR": 1.7,
+        "Position(s)": "1B"
+    },
+    "Andrés Giménez": {
+        "WAR": 1.7,
+        "Position(s)": "2B"
+    },
+    "César Hernández": {
+        "WAR": 1.7,
+        "Position(s)": "2B"
+    },
+    "Alex Wood": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Kyle Hendricks": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Marco Gonzales": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Merrill Kelly": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Cal Quantrill": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Yusei Kikuchi": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Casey Mize": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Lance McCullers Jr.": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Nick Pivetta": {
+        "WAR": 1.7,
+        "Position(s)": "SP"
+    },
+    "Yandy Díaz": {
+        "WAR": 1.6,
+        "Position(s)": "1B"
+    },
+    "Bobby Dalbec": {
+        "WAR": 1.6,
+        "Position(s)": "1B"
+    },
+    "Ryan Mountcastle": {
+        "WAR": 1.6,
+        "Position(s)": "1B"
+    },
+    "Tony Kemp": {
+        "WAR": 1.6,
+        "Position(s)": "2B"
+    },
+    "Brendan Rodgers": {
+        "WAR": 1.6,
+        "Position(s)": "2B"
+    },
+    "Jack Flaherty": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Drew Rasmussen": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Josiah Gray": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Zack Greinke": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Brad Keller": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Liam Hendriks": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Triston McKenzie": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Miles Mikolas": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Patrick Corbin": {
+        "WAR": 1.6,
+        "Position(s)": "SP"
+    },
+    "Alex Kirilloff": {
+        "WAR": 1.5,
+        "Position(s)": "1B"
+    },
+    "Josh Rojas": {
+        "WAR": 1.5,
+        "Position(s)": "2B"
+    },
+    "Ha-Seong Kim": {
+        "WAR": 1.5,
+        "Position(s)": "2B"
+    },
+    "Aaron Civale": {
+        "WAR": 1.5,
+        "Position(s)": "SP"
+    },
+    "Cole Irvin": {
+        "WAR": 1.5,
+        "Position(s)": "SP"
+    },
+    "Kyle Freeland": {
+        "WAR": 1.5,
+        "Position(s)": "SP"
+    },
+    "Luis Patiño": {
+        "WAR": 1.5,
+        "Position(s)": "SP"
+    },
+    "Brad Miller": {
+        "WAR": 1.4,
+        "Position(s)": "1B"
+    },
+    "Trey Mancini": {
+        "WAR": 1.4,
+        "Position(s)": "1B"
+    }
+}
