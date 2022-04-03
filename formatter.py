@@ -7,7 +7,7 @@ from pprint import pprint as pp
 from data import keepers
 from common import saveJson, loadJson
 
-df = pd.read_excel('./Top 300.xlsx')
+df = pd.read_excel('./data/Top 300.xlsx')
 
 
 def mainCopy():
@@ -50,8 +50,16 @@ def removeKeepers(players, keeperList):
     print("Players Removed:", removed)
     return players
 
+def returnByPosition(players, position):
+    """
+    Function to return a list of players by position.
+    """
+    positionList = []
+    for k, v in players.items():
+        if position in v["Position(s)"]:
+            positionList.append(k)
+    return positionList
 
 if __name__ == "__main__":
-    x = loadJson('players.json')
-    func = removeKeepers(x, keepers)
-    saveJson(func, 'nonKeepers.json')
+    x = loadJson('./data/nonKeepers.json')
+    print(returnByPosition(x, "OF"))
