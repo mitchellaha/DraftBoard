@@ -56,10 +56,12 @@ def returnByPosition(players, position):
     """
     positionList = []
     for k, v in players.items():
+        player = {}
         if position in v["Position(s)"]:
-            positionList.append(k)
+            playerDic = (k, v["WAR"])
+            positionList.append(playerDic)
     return positionList
 
 if __name__ == "__main__":
     x = loadJson('./data/nonKeepers.json')
-    print(returnByPosition(x, "OF"))
+    pp(returnByPosition(x, "OF"))
