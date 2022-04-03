@@ -127,7 +127,15 @@ def find5MaxWAR(fileName):
             playerName5 = player["Name"]
     return (playerName, maxWAR, playerName2, secondMaxWAR, playerName3, thirdMaxWAR, playerName4, fourthMaxWAR, playerName5, fifthMaxWAR)
 
+# Create a copy of the json file and save as a new file
+def createCopy(fileName):
+    with open(fileName) as f:
+        positions = json.load(f)
+    saveJson(positions, "./data/positions/copy.json")
+
 if __name__ == "__main__":
+    createCopy("./data/positions/SS.json")
+
     # First base
     print(find5MaxWAR("./data/positions/1B.json"))
     difference = (findMaxWAR("./data/positions/1B.json")) - (find2ndMaxWAR("./data/positions/1B.json"))
