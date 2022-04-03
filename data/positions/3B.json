@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Alex Bregman",
+        "WAR": 4.5
+    },
+    {
+        "Name": "Manny Machado",
+        "WAR": 4.5
+    },
+    {
+        "Name": "Anthony Rendon",
+        "WAR": 4.3
+    },
+    {
+        "Name": "Nolan Arenado",
+        "WAR": 3.7
+    },
+    {
+        "Name": "Matt Chapman",
+        "WAR": 3.6
+    },
+    {
+        "Name": "Yoán Moncada",
+        "WAR": 3.4
+    },
+    {
+        "Name": "Ke'Bryan Hayes",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Josh Donaldson",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Jeimer Candelario",
+        "WAR": 3.2
+    },
+    {
+        "Name": "Austin Riley",
+        "WAR": 3.1
+    },
+    {
+        "Name": "Justin Turner",
+        "WAR": 3.0
+    },
+    {
+        "Name": "Luis Urías",
+        "WAR": 2.5
+    },
+    {
+        "Name": "DJ LeMahieu",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Eugenio Suárez",
+        "WAR": 2.2
+    },
+    {
+        "Name": "Ryan McMahon",
+        "WAR": 2.1
+    }
+]

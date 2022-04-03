@@ -58,10 +58,20 @@ def returnByPosition(players, position):
     for k, v in players.items():
         player = {}
         if position in v["Position(s)"]:
-            playerDic = (k, v["WAR"])
+            playerDic = {}
+            playerDic["Name"] = k
+            playerDic["WAR"] = v["WAR"]
             positionList.append(playerDic)
     return positionList
 
+# for each position in the json file create a new file for each position
+def createPositionFiles(players):
+    for k, v in players.items():
+        position = v["Position(s)"]
+        positionList = returnByPosition(players, position)
+        saveJson(positionList, "./data/positions/{}.json".format(position))
+
 if __name__ == "__main__":
     x = loadJson('./data/nonKeepers.json')
-    pp(returnByPosition(x, "OF"))
+    # pp(returnByPosition(x, "OF"))
+    createPositionFiles(x)
