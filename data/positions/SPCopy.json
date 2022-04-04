@@ -1,0 +1,342 @@
+[
+    {
+        "Name": "Logan Webb",
+        "WAR": 3.7
+    },
+    {
+        "Name": "Freddy Peralta",
+        "WAR": 3.6
+    },
+    {
+        "Name": "Nathan Eovaldi",
+        "WAR": 3.6
+    },
+    {
+        "Name": "Julio Urías",
+        "WAR": 3.5
+    },
+    {
+        "Name": "Eduardo Rodriguez",
+        "WAR": 3.5
+    },
+    {
+        "Name": "Lance Lynn",
+        "WAR": 3.4
+    },
+    {
+        "Name": "Sandy Alcantara",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Frankie Montas",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Dylan Cease",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Luis Castillo",
+        "WAR": 3.3
+    },
+    {
+        "Name": "Joe Musgrove",
+        "WAR": 3.2
+    },
+    {
+        "Name": "José Berríos",
+        "WAR": 3.2
+    },
+    {
+        "Name": "Trevor Rogers",
+        "WAR": 3.1
+    },
+    {
+        "Name": "Framber Valdez",
+        "WAR": 3.1
+    },
+    {
+        "Name": "Carlos Rodón",
+        "WAR": 2.9
+    },
+    {
+        "Name": "Germán Márquez",
+        "WAR": 2.9
+    },
+    {
+        "Name": "Charlie Morton",
+        "WAR": 2.9
+    },
+    {
+        "Name": "Sean Manaea",
+        "WAR": 2.8
+    },
+    {
+        "Name": "Alek Manoah",
+        "WAR": 2.8
+    },
+    {
+        "Name": "Yu Darvish",
+        "WAR": 2.7
+    },
+    {
+        "Name": "Jordan Montgomery",
+        "WAR": 2.7
+    },
+    {
+        "Name": "Pablo López",
+        "WAR": 2.7
+    },
+    {
+        "Name": "John Means",
+        "WAR": 2.7
+    },
+    {
+        "Name": "Sonny Gray",
+        "WAR": 2.7
+    },
+    {
+        "Name": "Tyler Mahle",
+        "WAR": 2.6
+    },
+    {
+        "Name": "Shane McClanahan",
+        "WAR": 2.6
+    },
+    {
+        "Name": "Marcus Stroman",
+        "WAR": 2.6
+    },
+    {
+        "Name": "Clayton Kershaw",
+        "WAR": 2.5
+    },
+    {
+        "Name": "Michael Kopech",
+        "WAR": 2.5
+    },
+    {
+        "Name": "Ranger Suárez",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Hyun Jin Ryu",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Patrick Sandoval",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Tanner Houck",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Chris Bassitt",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Blake Snell",
+        "WAR": 2.4
+    },
+    {
+        "Name": "Zac Gallen",
+        "WAR": 2.3
+    },
+    {
+        "Name": "Jon Gray",
+        "WAR": 2.3
+    },
+    {
+        "Name": "Logan Gilbert",
+        "WAR": 2.2
+    },
+    {
+        "Name": "Brady Singer",
+        "WAR": 2.2
+    },
+    {
+        "Name": "Joe Ryan",
+        "WAR": 2.2
+    },
+    {
+        "Name": "Bailey Ober",
+        "WAR": 2.2
+    },
+    {
+        "Name": "Ian Anderson",
+        "WAR": 2.1
+    },
+    {
+        "Name": "Luis Severino",
+        "WAR": 2.1
+    },
+    {
+        "Name": "Adam Wainwright",
+        "WAR": 2.1
+    },
+    {
+        "Name": "Jameson Taillon",
+        "WAR": 2.1
+    },
+    {
+        "Name": "Mike Clevinger",
+        "WAR": 2.1
+    },
+    {
+        "Name": "Tarik Skubal",
+        "WAR": 2.0
+    },
+    {
+        "Name": "Antonio Senzatela",
+        "WAR": 2.0
+    },
+    {
+        "Name": "Mike Minor",
+        "WAR": 2.0
+    },
+    {
+        "Name": "Luis Garcia",
+        "WAR": 2.0
+    },
+    {
+        "Name": "José Urquidy",
+        "WAR": 2.0
+    },
+    {
+        "Name": "Chris Sale",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Steven Matz",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Shane Baz",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Zach Eflin",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Alex Cobb",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Kyle Gibson",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Dane Dunning",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Chris Flexen",
+        "WAR": 1.9
+    },
+    {
+        "Name": "Noah Syndergaard",
+        "WAR": 1.8
+    },
+    {
+        "Name": "Justin Verlander",
+        "WAR": 1.8
+    },
+    {
+        "Name": "Huascar Ynoa",
+        "WAR": 1.8
+    },
+    {
+        "Name": "Anthony DeSclafani",
+        "WAR": 1.8
+    },
+    {
+        "Name": "Alex Wood",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Kyle Hendricks",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Marco Gonzales",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Merrill Kelly",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Cal Quantrill",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Yusei Kikuchi",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Casey Mize",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Lance McCullers Jr.",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Nick Pivetta",
+        "WAR": 1.7
+    },
+    {
+        "Name": "Jack Flaherty",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Drew Rasmussen",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Josiah Gray",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Zack Greinke",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Brad Keller",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Liam Hendriks",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Triston McKenzie",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Miles Mikolas",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Patrick Corbin",
+        "WAR": 1.6
+    },
+    {
+        "Name": "Aaron Civale",
+        "WAR": 1.5
+    },
+    {
+        "Name": "Cole Irvin",
+        "WAR": 1.5
+    },
+    {
+        "Name": "Kyle Freeland",
+        "WAR": 1.5
+    },
+    {
+        "Name": "Luis Patiño",
+        "WAR": 1.5
+    }
+]
